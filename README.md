@@ -1,12 +1,20 @@
 ### Hi there 👋
 
-I'm passionate Frontend Developer | UI/UX Enthusiast
-
 ## My Stack
-🚀 HTML | 🎨 CSS | 🎨 Sass | 💻 JavaScript | 💻 TypeScript | ⚛️ React | 🌐 Next.js | 🎨 Tailwind CSS
+- 🚀 HTML
+- 🎨 CSS + Sass
+- 💻 JavaScript
+- 💻 TypeScript
+- ⚛️ React + Material UI
+- 🌐 Next.js
+- 🎨 Tailwind CSS
 
 ## Additional Skills
-📐 UI/UX Design + QA | ☁️ AWS + DevOps (CI/CD) | 🌐 Domain Integration | 📊 Data Structures & Algorithms |🕸️ Web Application Security
+- 📐 UI/UX Design + QA
+- ☁️ AWS + DevOps (CI/CD)
+- 🌐 Domain Integration
+- 📊 Data Structures & Algorithms
+- 🕸️ Web Application Security
 
 <!--
 **dAnastasiia/dAnastasiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
