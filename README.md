@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+Passionate Frontend Developer
 
 ## My Stack
 - 🚀 HTML
