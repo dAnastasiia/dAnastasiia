@@ -19,8 +19,6 @@
 
 <img align="left" alt="React" width="32px" src="/icons/react.png" />
 
-<img align="left" alt="Nextjs" width="32px" src="/icons/nextjs.png" />
-
 <img align="left" alt="Jest" width="32px" src="/icons/jest.png" />
 
 <img align="left" alt="Git" width="32px" src="/icons/git.png" />
