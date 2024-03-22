@@ -1,7 +1,7 @@
 ### Hi there, I'm Anastasiia 👋
 
-- 🔭 Working on **a lot of different stuff**
-- 🌱 I’m currently **diving deeper into the fascinating world of Next.js and Tailwind CSS**
+- 🔭 Working on **improving my skills**
+- 🌱 I’m currently **diving deeper into the fascinating worlds of Node.js, Next.js + Tailwind CSS**
 - 🤔 Looking for help with **bending the laws of time to fit in all the things I want to do in a day! Suggestions welcome.**
 - ⚡ Fun fact: **I'm interested in everything I've ever heard of, and then some! Got any fascinating facts to share? I'm all ears!**
 
